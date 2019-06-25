@@ -1,6 +1,6 @@
 # Audara
 
-> VTEX Zopim first-party app
+> VTEX Audara first-party app
 
 ## Setup
 
