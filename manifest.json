@@ -16,25 +16,14 @@
     "free": true
   },
   "builders": {
-    "react": "3.x",
-    "store": "0.x",
     "pixel": "0.x"
   },
-  "dependencies": {
-    "vtex.pixel-interfaces": "1.x"
-  },
-  "policies": [
-    {
-      "name": "pixel"
-    }
-  ],
   "settingsSchema": {
     "title": "audara",
     "type": "object",
     "properties": {
       "id": {
         "title": "Audara",
-        "description": "Enter ID Audara",
         "type": "string"
       }
     }
